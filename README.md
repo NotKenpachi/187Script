@@ -1,6 +1,4 @@
-Here's a structured `README.md` file for your Gemini Testing Automation project, formatted with proper code blocks and sections for clarity:
 
-```markdown
 # Gemini Testing Automation
 
 This project automates the testing of prompts on Google Gemini using Selenium and Firefox. It reads test cases from an Excel file, sends prompts to Gemini, captures the model output, and scores the results based on accuracy and quality. Finally, it generates a detailed Excel report of test results.
@@ -142,4 +140,3 @@ print(f"Total Execution Time: {minutes} minutes and {seconds:.2f} seconds.")
 - Long-running scripts may take time depending on the number of test cases and model response times.
 ```
 
-Feel free to modify any sections as necessary!
